@@ -40,18 +40,14 @@ These are used as **proxies** to reason about food delivery contexts.
 
 ## Structure
 
-1. Problem framing — why scrolling deserves scrutiny  
-2. User states — when browsing becomes effort  
-3. Data & evidence — what public data suggests  
-4. Trade-offs & assumptions — what we accept and why  
-5. Experiment thinking — how this could be tested safely  
-6. Reflection — what I would explore next
+1. Problem framing: why scrolling deserves scrutiny  
+2. User states: when browsing becomes effort  
+3. Data & evidence: what public data suggests  
+4. Trade-offs & assumptions: what we accept and why  
+5. Experiment thinking: how this could be tested safely  
+6. Reflection: what I would explore next
 
 ## Timeframe
 
 This project was developed iteratively over several weeks to mirror how a PM might explore a small but high-impact problem before committing to solutions.
 
-## Author
-
-Yuan-Yuan Watkis  
-Aspiring Product Manager
